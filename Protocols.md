@@ -1,0 +1,3 @@
+- https://deepstreamhub.com/blog/load-balancing-websocket-connections/
+- TCP and UDP
+- OSI Model

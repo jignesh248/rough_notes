@@ -1,0 +1,10 @@
+[Redis streams as a pure data structure](http://antirez.com/news/128)
+
+- delta-compressed macro nodes //TODO: read details if needed
+- Applications of radix tree : Redis streams
+- listpack //TODO: read details if needed
+- delta compression and same-fields compression //TODO: read details if needed
+
+- Redis supports sorted set
+
+- https://redis.io/topics/notifications //TODO

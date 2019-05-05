@@ -1,0 +1,13 @@
+https://www.udemy.com/sql-and-postgresql-for-beginners/
+https://www.udemy.com/learn-partitioning-in-postgresql-from-scratch/
+https://www.udemy.com/enterprise-gis/
+https://www.udemy.com/spatialsql/
+https://www.udemy.com/geoserver/
+https://www.udemy.com/pyspatial/
+https://www.udemy.com/introduction-to-spatial-databases-with-postgis-and-qgis/
+https://www.udemy.com/introduction-to-web-programming-for-gis-applications/
+https://www.udemy.com/postgresql-from-zero-to-hero/
+https://www.udemy.com/server-side-web-gis-applications-with-leaflet-and-postgis/
+https://www.udemy.com/gdal_basics/
+https://www.udemy.com/webgisgeoserver/
+https://www.udemy.com/webgisandgeoserverwithservermanagement/

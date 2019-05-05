@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/22341138/get-sequelize-js-enum-values-from-already-defined-model
